@@ -32,19 +32,14 @@ For most of my life so far, I've spent it exploring and learning about new techn
 <br />
 <br />
 
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Eric's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ericgeagan&show_icons=true&hide_border=true" />
+<img align="left" alt="Eric's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ericgeagan&show_icons=true&hide_border=true" />
 
 
-  <summary>:zap: Most Used Languages</summary>
+<summary>:zap: Most Used Languages</summary>
 
 <img align="right" alt="Eric's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericgeagan" />
-<p float="left">
-  <img src="[/img1.png](https://github-readme-stats.vercel.app/api/top-langs/?username=ericgeagan)" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
 
 <!--
 **joshsomthin/joshsomthin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
