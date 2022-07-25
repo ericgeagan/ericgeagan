@@ -4,6 +4,7 @@ For most of my life so far, I've spent it exploring and learning about new techn
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-geagan-462323195/)
 [![Gmail Badge](https://img.shields.io/badge/-ericgeagan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ericgeagan@gmail.com)](mailto:ericgeagan@gmail.com)
+[![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://ericgeagan.github.io/)
 
 
 - 🔭 I’m currently working on a Dungeons & Dragons application to help manage each game session.
